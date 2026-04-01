@@ -22,6 +22,8 @@ reed life and quality consistency. By aligning themselves with clarinet traditio
 the clarinet improvement of the plastic reed. The catalog participates in the struggle between tradition and improvement by
 dominating the Discourse of cane reed users over the Discourse of plastic reed users.
 
+![back of Vandoren's catalog](discourse_visual.jpg)
+
 Another text that participates in the Discourse of classical clarinetists is L. Omar Henderson’s post to a discussion board about
 bass clarinetist Michael Lowenstern’s bore oil experiment video (Henderson, 2018). Henderson was the owner of Doctor’s Products,
 a small company that sells various clarinet products, including plant-based bore oil, an oil used to oil the wooden inside of the clarinet
@@ -55,12 +57,13 @@ exists as they are today through breaks from traditions, from improvements on th
 practice would not be what it is today without its struggle between tradition and improvement; it is defined by the struggle.
 
 # References
-Gingras, M. (2004). Secret 44: Vibrato. Clarinet secrets: 52 performance strategies for the advanced clarinetist. Scarecrow Press.
+Gingras, M. (2004). Secret 44: Vibrato. *Clarinet secrets: 52 performance strategies for the advanced clarinetist*. Scarecrow Press.
 
-Henderson, L. O. [The Doctor]. (2018, April 26). Re: Michael Lowenstern’s bore oil experiment [Online forum post]. Woodwind.org. http://test.woodwind.org/clarinet/BBoard/read.
-html?f=1&i=464691&t=464689
+Henderson, L. O. \[The Doctor\]. (2018, April 26). *Re: Michael Lowenstern’s bore oil experiment* \[Online forum post\]. Woodwind.org.
+[http://test.woodwind.org/clarinet/BBoard/read.html?f=1&i=464691&t=464689](http://test.woodwind.org/clarinet/BBoard/read.html?f=1&i=464691&t=464689)
 
-Omar Henderson. (n.d.). Home [LinkedIn page]. LinkedIn. Retrieved March 7, 2024, from https://www.linkedin.com/in/omar-henderson-6172113a
+Omar Henderson. (n.d.). *Home* \[LinkedIn page\]. LinkedIn. Retrieved March 7, 2024, from
+[https://www.linkedin.com/in/omar-henderson-6172113a](https://www.linkedin.com/in/omar-henderson-6172113a)
 
-The Editors of Encyclopedia Britannica. (n.d.). Clarinet. In Encyclopedia Britannica. https://www.britannica.com/art/clarinet
-Vandoren. (2022, September). Vandoren SAS: Manufacturer of reeds, mouthpieces, and accessories for clarinets and saxophones. Vandoren, 09/2022 edition.
+The Editors of Encyclopedia Britannica. (n.d.). Clarinet. In *Encyclopedia Britannica*. https://www.britannica.com/art/clarinet
+Vandoren. (2022, September). Vandoren SAS: Manufacturer of reeds, mouthpieces, and accessories for clarinets and saxophones. *Vandoren*, 09/2022 edition.
