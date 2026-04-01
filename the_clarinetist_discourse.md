@@ -39,8 +39,8 @@ the traditional. However, the way he denied Lowenstern’s findings aligns with 
 used for oiling bores. Henderson’s post compromises the desire to seek improvements and to desire to adhere to tradition by seeking
 to improve on clarinetist traditions.
 
-Clarinetist Michèle Gingras’s introduction to the 44th “secret” in her Clarinet Secrets: 52 Performance Strategies for
-the Advanced Clarinetist also participates in the Discourse of clarinetists. In the introduction of the chapter, she argues
+Clarinetist Michèle Gingras’s introduction to the 44th “secret” in her *Clarinet Secrets: 52 Performance Strategies for
+the Advanced Clarinetist* also participates in the Discourse of clarinetists. In the introduction of the chapter, she argues
 for clarinetists learning vibrato, a technique that makes sound sound like it's wavering (Gingras, 2004). Her argument specifically challenges
 the Discourse of classical American clarinetists—she points out that British classical clarinetists “tend to use vibrato more consistently than
 other schools” (Gingras, 2004, p. 100). Gingras’s arguement for the addition of vibrato in the American clarinetist skill repertoire aligns
