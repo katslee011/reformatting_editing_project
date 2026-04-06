@@ -5,10 +5,13 @@ when it was invented by an instrument maker (Yamaha, n.d.).
 In the centuries since its creation, people have improved upon the original clarinet;
 they added keys, enlarged parts, and developed key systems (The Editors of Encyclopedia Britannica, n.d.).
 All these improvements came together to create the modern clarinet. However, during those centuries,
-the practices clarinetists developed to play and maintain the instrument grew less creative, less flexible,
-and calcified into modern, classical clarinetist tradition. The discourse of classical clarinetists is
-a discourse struggling between the desire to seek improvements and traditions.
+the practices clarinetists developed to play and maintain the instrument grew less creative and less flexible,
+so the classical clarinetist tradition calcified into what it is today.
+Because of the conflict between innovation and tradition,
+the discourse of classical clarinetists became a discourse struggling between
+the desire to seek improvements and the desire to maintain traditions.
 
+## To Use Cane or Plastic Reeds?
 One text that participates in the discourse of classical clarinetists is the back of a Vandoren—
 a company that sells clarinet accessories—product catalog. Pictured on the back of the catalog are
 two Vandoren’s traditional reeds—reeds are one of the parts that make up the clarinet and are traditionally made of cane—
@@ -25,6 +28,7 @@ dominating the Discourse of cane reed users over the discourse of plastic reed u
 
 ![back of a Vandoren product catalog](discourse_visual.jpg)
 
+## To Use or Not to Use Bore Oil?
 Another text that participates in the discourse of classical clarinetists is L. Omar Henderson’s post to a discussion board about
 bass clarinetist Michael Lowenstern’s bore oil experiment video (Henderson, 2018). Henderson was the owner of Doctor’s Products,
 a small company that sells various clarinet products, including plant-based bore oil, an oil used to oil the wooden inside of the clarinet
@@ -40,8 +44,9 @@ the traditional. However, the way he denied Lowenstern’s findings aligns with 
 used for oiling bores. Henderson’s post compromises the desire to seek improvements and to desire to adhere to tradition by seeking
 to improve on clarinetist traditions.
 
+## To Use or Not to Use Vibrato?
 Clarinetist Michèle Gingras’s introduction to the 44th “secret” in her *Clarinet Secrets: 52 Performance Strategies for
-the Advanced Clarinetist* also participates in the Discourse of clarinetists. In the introduction of the chapter, she argues
+the Advanced Clarinetist* also participates in the discourse of clarinetists. In the introduction of the chapter, she argues
 for clarinetists learning vibrato, a technique that makes sound sound like it's wavering (Gingras, 2004). Her argument specifically challenges
 the Discourse of classical American clarinetists—she points out that British classical clarinetists “tend to use vibrato more consistently than
 other schools” (Gingras, 2004, p. 100). Gingras’s arguement for the addition of vibrato in the American clarinetist skill repertoire aligns
@@ -51,6 +56,7 @@ that do not want to add vibrato to their regular use would improve their perform
 by challenging the tradition of avoiding vibrato by positioning vibrato as an improvement for performance. In the struggle between
 tradition and improvement, Gingras sides with improvement by encouraging the introduction of vibrato in the discourse of American classical clarinetists. 
 
+## Conclusion
 The classical clarinetist discourse is characterized by its struggle between traditions and improvements, whether through
 equipment, maintenance, or technique. The clarinet was a classical instrument. Over the centuries of the instrument’s existence, its players
 have developed practices and techniques, and over those centuries, those practices and techniques aged into traditions. But, the modern clarinet and clarinetist
