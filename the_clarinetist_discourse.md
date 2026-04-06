@@ -5,26 +5,26 @@ In the centuries since its creation, people have improved upon the original clar
 they added keys, enlarged parts, and developed key systems (The Editors of Encyclopedia Britannica, n.d.).
 All these improvements came together to create the modern clarinet. However, during those centuries,
 the practices clarinetists developed to play and maintain the instrument grew less creative, less flexible,
-and calcified into modern, classical clarinetist tradition. The Discourse of classical clarinetists is
-a Discourse struggling between the desire to seek improvements and traditions.
+and calcified into modern, classical clarinetist tradition. The discourse of classical clarinetists is
+a discourse struggling between the desire to seek improvements and traditions.
 
-One text that participates in the Discourse of classical clarinetists is the back of a Vandoren—
+One text that participates in the discourse of classical clarinetists is the back of a Vandoren—
 a company that sells clarinet accessories—product catalog. Pictured on the back of the catalog are
 two Vandoren’s traditional reeds—reeds are one of the parts that make up the clarinet and are traditionally made of cane—
 on top of another photo of rows of cut cane. The back of the catalog has text, reading,
 “Vandoren SAS: manufacturer of reeds, mouthpieces and accessories for clarinetists and saxophones since 1905” (Vandoren, 2022).
-To me, the catalog uses Vandoren’s prominence in the clarinetist Discourse as a traditional source of reeds to help market its company.
+To me, the catalog uses Vandoren’s prominence in the clarinetist discourse as a traditional source of reeds to help market its company.
 Vandoren’s traditional reeds are, as their name suggests, their most traditional and well-known line of reeds, so their central placement,
 along with the text “since 1905,” reinforces Vandoren’s traditional role as provider of reeds to clarinetists and saxophone players.
 The photo of cut cane references the traditional source material of reeds, cane. However, cane isn’t the only source of reeds.
 Vandoren also sells plastic reeds—a type of reed that uses plastic instead of cane—a modern invention that rose from the desire to improve
 reed life and quality consistency. By aligning themselves with clarinet tradition and the image of the traditional reed, they suppress
 the clarinet improvement of the plastic reed. The catalog participates in the struggle between tradition and improvement by
-dominating the Discourse of cane reed users over the Discourse of plastic reed users.
+dominating the Discourse of cane reed users over the discourse of plastic reed users.
 
-![back of Vandoren's catalog](discourse_visual.jpg)
+![back of a Vandoren product catalog](discourse_visual.jpg)
 
-Another text that participates in the Discourse of classical clarinetists is L. Omar Henderson’s post to a discussion board about
+Another text that participates in the discourse of classical clarinetists is L. Omar Henderson’s post to a discussion board about
 bass clarinetist Michael Lowenstern’s bore oil experiment video (Henderson, 2018). Henderson was the owner of Doctor’s Products,
 a small company that sells various clarinet products, including plant-based bore oil, an oil used to oil the wooden inside of the clarinet
 (Omar Henderson). In his post, he argues against Lowenstern’s findings that bore oil does not penetrate grenadilla wood because
@@ -48,9 +48,9 @@ with the desire for improvement. She argues that vibrato “can add color and ch
 that do not want to add vibrato to their regular use would improve their performances by learning vibrato for when
 “avant-garde composers specifically call for vibrato in their music” (p. 100). Gingras’s argument aligns with improvement over tradition
 by challenging the tradition of avoiding vibrato by positioning vibrato as an improvement for performance. In the struggle between
-tradition and improvement, Gingras sides with improvement by encouraging the introduction of vibrato in the Discourse of American classical clarinetists. 
+tradition and improvement, Gingras sides with improvement by encouraging the introduction of vibrato in the discourse of American classical clarinetists. 
 
-The classical clarinetist Discourse is characterized by its struggle between traditions and improvements, whether through
+The classical clarinetist discourse is characterized by its struggle between traditions and improvements, whether through
 equipment, maintenance, or technique. The clarinet was a classical instrument. Over the centuries of the instrument’s existence, its players
 have developed practices and techniques, and over those centuries, those practices and techniques aged into traditions. But, the modern clarinet and clarinetist
 exists as they are today through breaks from traditions, from improvements on the clarinet’s original form and methods. The classical clarinetist
