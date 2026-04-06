@@ -1,6 +1,7 @@
 # The Clarinetist Discourse: Improvement Versus Tradition
 
-The story of the clarinet began at the end of the Classical period, the eighteenth century.
+The story of the clarinet began at the beginning of the 18th century,
+when it was invented by an instrument maker (Yamaha, n.d.).
 In the centuries since its creation, people have improved upon the original clarinet;
 they added keys, enlarged parts, and developed key systems (The Editors of Encyclopedia Britannica, n.d.).
 All these improvements came together to create the modern clarinet. However, during those centuries,
@@ -65,5 +66,7 @@ Henderson, L. O. \[The Doctor\]. (2018, April 26). *Re: Michael Lowenstern’s b
 Omar Henderson. (n.d.). *Home* \[LinkedIn page\]. LinkedIn. Retrieved March 7, 2024, from
 [https://www.linkedin.com/in/omar-henderson-6172113a](https://www.linkedin.com/in/omar-henderson-6172113a)
 
-The Editors of Encyclopedia Britannica. (n.d.). Clarinet. In *Encyclopedia Britannica*. https://www.britannica.com/art/clarinet
+The Editors of Encyclopedia Britannica. (n.d.). Clarinet. In *Encyclopedia Britannica*. [https://www.britannica.com/art/clarinet](https://www.britannica.com/art/clarinet)
 Vandoren. (2022, September). Vandoren SAS: Manufacturer of reeds, mouthpieces, and accessories for clarinets and saxophones. *Vandoren*, 09/2022 edition.
+
+Yamaha. (n.d.). *The Origins of the Clarinet* [https://www.yamaha.com/en/musical_instrument_guide/clarinet/structure/](https://www.yamaha.com/en/musical_instrument_guide/clarinet/structure/)
