@@ -32,7 +32,7 @@ Through its role in the plastic versus cane reed discourse,
 the catalog participates in the struggle between tradition and improvement by
 dominating the discourse of cane reed users over the discourse of plastic reed users.
 
-![back of the Vandoren product catalog](document_one/discourse_visual.jpg)
+![back of the Vandoren product catalog](discourse_visual.jpg)
 
 ## To Use or Not to Use Bore Oil?
 Another text that participates in the discourse of classical clarinetists is L. Omar Henderson’s post to a discussion board about
