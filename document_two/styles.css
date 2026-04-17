@@ -11,5 +11,6 @@ img{
 .eraser{
   text-decoration: underline;
   text-decoration-style: dotted;
+  text-decoration-thickness: 15%;
   color: crimson
 }
