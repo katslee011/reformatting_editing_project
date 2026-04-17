@@ -2,3 +2,8 @@ img{
   width: 30%;
   height: 30%;
 }
+.pen{
+  text-decoration: underline;
+  text-decoration-style: solid;
+  color: darkblue;
+}
