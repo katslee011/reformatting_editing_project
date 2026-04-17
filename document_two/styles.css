@@ -8,3 +8,8 @@ img{
   text-decoration-thickness: 5%;
   color: darkblue;
 }
+.eraser{
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  color: crimson
+}
