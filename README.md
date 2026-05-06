@@ -178,5 +178,32 @@ even if for free,
 gave me more confidence in my abilities.
 
 ## Learning
+As mentioned throughout the reflection,
+I learned more about HTML and CSS than I expected.
+My project demonstrates this directly,
+as I had to use the HTML and CSS I learned to complete Document 2.
+Additionally,
+I used HTML to create the website [WRIT 4999 Project 3](https://katslee011.github.io/reformatting_editing_project/),
+and for that website,
+I had to figure out how to get links to open in a new page
+(which I did for links to outside websites).
+
+I learned that I *do* know how to edit,
+which is good,
+because while I theoretically knew it was a skill I had,
+I hadn't applied it in a real-world context before,
+and until I apply it in a real-world context,
+I feel unsure about my skills.
+I suppose that's the most valuable things I learned—that I *do* have the skills I possess.
+
+While I had an overall positive impression of this project,
+I would absolutely do things differently if I were to do it again:
+I'd do less!
+I wasn't expecting the HTML portions of my project to take up the time it did,
+and if I'd known how much time they'd take, I'd remove Document 1, the Markdown example.
+Although Markdown is valuable,
+it's simple,
+and I think focusing my energy into HTML and editing would've been more worthwhile.
 
 ## Application
+
