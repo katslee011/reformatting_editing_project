@@ -122,6 +122,60 @@ and I believe I provided sound justifications for my changes.
 I believe I've earned **20/20** points for this criterion.
 
 ## Experience
+Looking back on my writing and comparing it to my resume,
+I realized that I actually have a lot of examples of my writing ability,
+but I lack good examples of my other hard skills.
+While I have documents I created for the Writing with Digital Technology class,
+I realized that they weren't good examples of my *writing*,
+and while I have editing knowledge from Editing, Style, & Critique,
+I don't have a lot of good *examples*.
+
+Technically,
+I could have used any of the documents I created for those classes and called it a day,
+but I believe a portfolio should consist of as few documents as possible.
+Recruiters are unlikely to spend very long on any of my documents.
+If they see that I claim to be good at both writing and HTML,
+and they need me to be good at both,
+they might choose to look at my HTML examples only.
+If my HTML example(s) have poor writing,
+or if I lack an HTML example in my portfolio,
+I risk ruining my chances.
+Ideally,
+my examples of Markdown and/or HTML should demonstrate
+both a good grasp on the markup language *and* a strong writing ability.
+
+Because of my thought process,
+I focused on *quality* for my criterion.
+Originally,
+I included a criterion on completion because I wouldn't complete all the documents otherwise,
+but after feedback,
+I changed it to Summary of Changes,
+which I thought about including because I realized the professor of this class didn't have access to the original documents.
+
+I used Google Calendar to manage my deadlines because I use Google Calendar to manage all my deadlines.
+As the end of the semester caught up to me, however,
+this method began to fail.
+
+I worked with Professor Jim Hall to complete this project.
+I reached out to him through email,
+then we continued to communicate through email,
+and then he sent over the article draft.
+I completed my edits through Google Docs suggestions and comments
+and sent the edited article back to him by the agreed deadline
+(according to the timeline in the proposal plan, replacing the XML document).
+
+The most intersting aspect of this project was definitely Document 2,
+but the most valuable part was Document 3.
+I learned more about HTML and CSS than I expected,
+and generally,
+I enjoy using HTML and CSS.
+I might do more personal exploration into HTML and CSS's capabilities in my free time.
+However, no matter how fun HTML and CSS are,
+they still felt isolated from a real-world context,
+unlike the work I did for Document 3.
+Working in a real capacity,
+even if for free,
+gave me more confidence in my abilities.
 
 ## Learning
 
