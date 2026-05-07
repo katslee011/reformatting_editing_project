@@ -1,4 +1,4 @@
-# Reflection (WIP)
+# Reflection
 For WRIT 4999, Project 3,
 I created three documents that demonstrate my ability to
 use Markdown, use HTML, and edit other people's work.
@@ -206,4 +206,27 @@ it's simple,
 and I think focusing my energy into HTML and editing would've been more worthwhile.
 
 ## Application
+The most immediate way I plan to apply my experience and learning from this project is by adding the documents to my portfolio.
+The main reason I decided to do my project the way that I did was because I wanted better items to put on my portfolio,
+so now that I've completed my project,
+I have the better items I wanted.
+While I'm not sure I want to put *all* the items in
+(I have other documents from other classes I want to showcase)
+I want to include the HTML example and the editing example.
 
+Less tangibly,
+I've gained more experience in HTML and editing,
+and I think I leanred more about HTML and editing in the process.
+While the application of these new experiences are less immediate,
+I anticipate using them in whatever career I end up with,
+or maybe I'll develop my skills as new hobbies.
+
+Ultimately,
+my biggest takeaway from this project is that I can do whatever I want.
+Even though I didn't choose a more conventional route for the project,
+like creating a technical document from scratch,
+I found a way to do the project my own way,
+and I did so successfully.
+There's really nothing stopping me from just...
+doing more projects like this outside of college,
+and I think that's an important takewaway as I prepare to/am leaving college.
